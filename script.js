@@ -1,19 +1,4 @@
-/*let inputBox = document.querySelector("input");
-let submitBtn = document.getElementById("submit");
-let disabledBtn = document.getElementById("disabled");
-let successMsg = document.getElementById("success-msg");
-let body = document.getElementById("body");
-let email = document.getElementById("email");
 
-const inputReg = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-z]{2,}$/i;
-
-
-   submitBtn.addEventListener("click", () => {
-      
-    
-      
-
-   })*/
 
     const mainSection = document.querySelector("#body");
 const form = document.querySelector("form");
