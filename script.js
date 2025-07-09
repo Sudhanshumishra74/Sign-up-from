@@ -57,4 +57,4 @@ function clearError() {
     errorMsg.textContent = "";
   }
   input.classList.remove("error");
-}
+};
