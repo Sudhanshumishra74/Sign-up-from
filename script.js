@@ -49,7 +49,7 @@ function showError(message) {
   }
   errorMsg.textContent = message;
   input.classList.add("error");
-}
+};
 
 function clearError() {
   const errorMsg = document.querySelector("form p");
